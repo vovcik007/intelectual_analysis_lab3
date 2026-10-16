@@ -1,0 +1,12 @@
+# Reports and report content stay local.
+Звіт*
+звіт*
+
+# Notebook checkpoints, Python caches, and editor temporary files.
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+~$*
+*.tmp
+*.part
+.build_report.py
