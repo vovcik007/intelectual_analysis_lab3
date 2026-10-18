@@ -2,6 +2,11 @@
 Звіт*
 звіт*
 
+# Original assignment, intermediate copy, and reference analysis stay local.
+/ЛР3_завдання_студенту.ipynb
+/ЛР3_підготовлено.ipynb
+/ЛР3_помилковий_аналіз.ipynb
+
 # Notebook checkpoints, Python caches, and editor temporary files.
 .ipynb_checkpoints/
 __pycache__/
